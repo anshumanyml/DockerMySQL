@@ -14,8 +14,3 @@ select * from employees;
 docker stop my-mysql
 docker rm my-mysql
 ```
-
-```
-docker search mysql
-
-```
